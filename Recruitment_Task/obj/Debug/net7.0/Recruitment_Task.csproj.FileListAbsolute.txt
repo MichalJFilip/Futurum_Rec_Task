@@ -1,0 +1,11 @@
+/Users/michalfilip/Desktop/Praca/Staże/Futurum/Recruitment_Task/bin/Debug/net7.0/Recruitment_Task
+/Users/michalfilip/Desktop/Praca/Staże/Futurum/Recruitment_Task/bin/Debug/net7.0/Recruitment_Task.dll
+/Users/michalfilip/Desktop/Praca/Staże/Futurum/Recruitment_Task/bin/Debug/net7.0/Recruitment_Task.pdb
+/Users/michalfilip/Desktop/Praca/Staże/Futurum/Recruitment_Task/obj/Debug/net7.0/Recruitment_Task.GeneratedMSBuildEditorConfig.editorconfig
+/Users/michalfilip/Desktop/Praca/Staże/Futurum/Recruitment_Task/obj/Debug/net7.0/Recruitment_Task.AssemblyInfoInputs.cache
+/Users/michalfilip/Desktop/Praca/Staże/Futurum/Recruitment_Task/obj/Debug/net7.0/Recruitment_Task.AssemblyInfo.cs
+/Users/michalfilip/Desktop/Praca/Staże/Futurum/Recruitment_Task/obj/Debug/net7.0/Recruitment_Task.csproj.CoreCompileInputs.cache
+/Users/michalfilip/Desktop/Praca/Staże/Futurum/Recruitment_Task/obj/Debug/net7.0/Recruitment_Task.dll
+/Users/michalfilip/Desktop/Praca/Staże/Futurum/Recruitment_Task/obj/Debug/net7.0/refint/Recruitment_Task.dll
+/Users/michalfilip/Desktop/Praca/Staże/Futurum/Recruitment_Task/obj/Debug/net7.0/Recruitment_Task.pdb
+/Users/michalfilip/Desktop/Praca/Staże/Futurum/Recruitment_Task/obj/Debug/net7.0/Recruitment_Task.csproj.AssemblyReference.cache
